@@ -1,12 +1,10 @@
-![Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+
 
 <h2>Hey! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ksheersagaragrawal.76050795)](https://github.com/ksheersagaragrawal) [![GitHub followers](https://img.shields.io/github/followers/ksheersagaragrawal.svg?style=social&label=Follow)](https://github.com/ksheersagaragrawal?tab=followers)
 
-I'm Lakshmanan Meiyappan! 
+I'm Ksheer Agrawal! 
 - <i>Currently:</i> B.Tech Student at IIT Gandhinagar, applying for Masters. 
 - <i>Previously:</i> Software Development Engineering Intern at Amazon.
 
@@ -16,26 +14,12 @@ I'm Lakshmanan Meiyappan!
 - Software Engineering
 - Machine Learning
 
-
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/laxmena/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 <h2> About Ksheer⚡:</h2>
 
 I'm an UnderGraduate Student living in India, Gandhinagar. Outside Tech, I love to play sports, enjoy music and explore nature outdoors. 
 
 "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
-- Eric S. Raymond
+~ Eric S. Raymond
  
 - Check out my Blog: [https://ksheersagaragrawal.github.io/blog/](https://ksheersagaragrawal.github.io/blog/)
 - Know more about me: [About Ksheer](https://ksheersagaragrawal.github.io/)
