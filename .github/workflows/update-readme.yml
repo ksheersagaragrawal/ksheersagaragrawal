@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Set the schedule for daily updates, you can customize this
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Generate README
+        run: node your-script.js  # Replace with the script that updates your README
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@users.noreply.github.com'
+          git add .
+          git commit -m "Update README with language stats" || exit 0
+          git push
