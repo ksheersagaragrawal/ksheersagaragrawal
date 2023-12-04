@@ -7,14 +7,14 @@
 - Currently: B.Tech Student at IIT Gandhinagar, Applying for Masters. 
 - Previously: Software Development Engineering Intern at Amazon.
 
-## I'm Currently Workng On  🖥️:
+## I'm Currently Workng On 🖥️ :
 
 - Machine Learning
 - System Design and Distributed Computing
 - Software Engineering
 
 
-## About Ksheer ⚡:
+## About Ksheer ⚡ :
 
 I'm an undergraduate student living in India, Gandhinagar. Outside tech, I love to play sports, enjoy music and explore nature outdoors. 
 
