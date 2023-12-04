@@ -23,12 +23,20 @@ I'm an undergraduate student living in India, Gandhinagar. Outside tech, I love 
 
 
 
-## Github Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksheersagaragrawal&layout=compact&show_icons=true)
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ksheersagaragrawal&layout=compact)
+## My Github Stats
+<p align="center">
+  <a href="https://github.com/ksheersagaragrawal/">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ksheersagaragrawal&show_icons=true&locale=en" alt="Ksheer's GitHub stats" />
+  </a> 
+  
+  <a href="https://github.com/ksheersagaragrawal/">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheersagaragrawal&layout=compact&langs_count=8&locale=en&exclude_repo=CMTT-LID" alt="Ksheer's GitHub Top Languages"/>
+  </a>
+</p>
+  
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksheersagaragrawal)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ksheersagaragrawal)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
