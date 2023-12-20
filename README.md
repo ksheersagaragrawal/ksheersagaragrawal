@@ -16,7 +16,7 @@
 
 ## About Ksheer ⚡ :
 
-I'm an undergraduate student living in India, Gandhinagar. Outside tech, I love to play sports, enjoy music and explore nature outdoors. 
+Undergraduate student from Mumbai, India, passionate about football, an avid fan of Illenium's music, and enthusiastic about campsite-based moderate mountain trekking.
 
 > "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
 > ~ Eric S. Raymond
