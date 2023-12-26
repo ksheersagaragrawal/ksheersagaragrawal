@@ -19,7 +19,7 @@
 
 
 
-<h3>My Github Stats</h3>
+<h3>My Github Stats ⭐</h3>
 <p align="center">  
   <a href="https://github.com/ksheersagaragrawal/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheersagaragrawal&layout=compact&langs_count=8&locale=en&exclude_repo=CMTT-LID" alt="Ksheer's GitHub Top Languages"/>
