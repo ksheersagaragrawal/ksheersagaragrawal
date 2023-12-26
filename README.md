@@ -4,39 +4,28 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ksheersagaragrawal.76050795)](https://github.com/ksheersagaragrawal) [![GitHub followers](https://img.shields.io/github/followers/ksheersagaragrawal.svg?style=social&label=Follow)](https://github.com/ksheersagaragrawal?tab=followers)
 
 
-- Currently: B.Tech Student at IIT Gandhinagar, Applying for Masters. 
+- Currently: B.Tech Student at IIT Gandhinagar. 
 - Previously: Software Development Engineering Intern at Amazon.
+- Outside Tech: Footballer, Moderate Mountain Trekker
 
-## I'm Currently Workng On 🖥️ :
+<h3>I'm Currently Workng On 🖥️ </h3>
 
 - Machine Learning
 - System Design and Distributed Computing
 - Software Engineering
-
-
-## About Ksheer ⚡ :
-
-Undergraduate student from Mumbai, India, passionate about football, an avid fan of Illenium's music, and enthusiastic about campsite-based moderate mountain trekking.
 
 > "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
 > ~ Eric S. Raymond
 
 
 
-## My Github Stats
-<p align="center">
+<h3>My Github Stats</h3>
+<p align="center">  
   <a href="https://github.com/ksheersagaragrawal/">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ksheersagaragrawal&show_icons=true&locale=en" alt="Ksheer's GitHub stats" />
-  </a> 
-  
-  <a href="https://github.com/ksheersagaragrawal/">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheersagaragrawal&layout=compact&langs_count=8&locale=en&exclude_repo=CMTT-LID" alt="Ksheer's GitHub Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheersagaragrawal&layout=compact&langs_count=8&locale=en&exclude_repo=CMTT-LID" alt="Ksheer's GitHub Top Languages"/>
   </a>
 </p>
   
-
-## GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ksheersagaragrawal)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
