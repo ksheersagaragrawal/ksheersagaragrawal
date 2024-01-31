@@ -17,9 +17,6 @@
 > "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter."
 > ~ Eric S. Raymond
 
-
-
-<h3>My Github Stats ⭐</h3>
 <p align="center">  
   <a href="https://github.com/ksheersagaragrawal/">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksheersagaragrawal&langs_count=8&theme=radical"/>
