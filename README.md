@@ -5,7 +5,7 @@
 
 - **Currently**: M.S student UCSD ML/DS. 
 - **Previously**: B.tech student IIT Gandhinagar EE.
-- **Experience**: SDE Intern Amazon AWS JWO tech.
+- **Experience**: SDE AWS DynamoDB DAX + Amazon AWS JWO tech.
 - **Outside Tech**: I love to cook Khichdi. I'm a Strava runner who loves Badminton (_only singles_) & Football (_right winger_). 
 
 
